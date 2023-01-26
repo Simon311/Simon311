@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi, I am Simon311 and historically I've mostly been working on TShock plugins, although that direction is almost non-existent these days.
+Hi, I am Simon311 and historically I've mostly been working on TShock for Terraria plugins, although that direction is almost non-existent these days.
 
 I know C# on a decent level and also have so experience with PHP and JS.
 
